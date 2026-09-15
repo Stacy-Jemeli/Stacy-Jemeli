@@ -77,6 +77,4 @@ I also work with complex applied datasets, including longitudinal data, statisti
 
 **LinkedIn:** linkedin.com/in/stacyjemelingetich
 
----
 
-*This portfolio documents practical data analytics, business intelligence, data-quality, statistical, and applied analytics projects.*
