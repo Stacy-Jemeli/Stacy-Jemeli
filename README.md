@@ -35,19 +35,19 @@ Business Intelligence
 
 Featured Analytics Projects
 
-1.Business Data Quality & Audit
+1.Business Data Quality & Audit - 
 A practical data-quality project demonstrating SQL, PostgreSQL and Python techniques for identifying missing data, duplicates, inconsistencies and data-validation issues.
 
-2.Business Performance Analytics
+2.Business Performance Analytics - 
 An end-to-end analytics project combining SQL, Python and Power BI to transform business data into management dashboards, performance indicators and actionable insights.
 
-3.Data Process Automation
+3.Data Process Automation - 
 A Python and SQL project demonstrating automated data cleaning, validation, transformation and reporting workflows.
 
-4. Aviation Business Analytics
+4. Aviation Business Analytics - 
 A synthetic aviation analytics project focused on operational and commercial performance, demonstrating database analysis, SQL, Python, Power BI and management reporting.
 
-5. Applied Health & Medical Analytics
+5. Applied Health & Medical Analytics - 
 I also work with complex health and medical datasets, including longitudinal data, clinical measurements, statistical modelling, data quality assessment, and predictive analytics.
 
 🎓 Education
