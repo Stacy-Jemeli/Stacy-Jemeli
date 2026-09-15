@@ -1,65 +1,82 @@
-Hi, I'm Stacy 👋
+ ### Hi, I'm Stacy 👋
 
-Data Analyst | SQL | Python | Power BI | Statistics | Business Intelligence
+### Data Analyst | SQL | Python | Power BI | Statistics | Business Intelligence
 
 I am a Data Analyst with a background in Computer Science and Data Analytics, focused on transforming complex data into reliable information, actionable insights, and decision-support tools.
 
-I enjoy working across the data analytics lifecycle: from data collection, cleaning and quality assurance to statistical analysis, visualization, reporting, and business insight generation.
+I work across the data analytics lifecycle — from data cleaning and quality assurance to statistical analysis, visualization, reporting, and business intelligence.
 
-🛠️ Technical Skills
+---
 
-Data Analysis
+## 🛠️ Technical Skills
 
-  Python
-  Pandas
-  NumPy
-  Statistical Analysis
-  Exploratory Data Analysis
+### Data Analysis
 
-Databases & Data
+* Python
+* Pandas
+* NumPy
+* Statistical Analysis
+* Exploratory Data Analysis
 
-  SQL
-  PostgreSQL
-  Data Cleaning
-  Data Validation
-  Data Quality & Reconciliation
-  Duplicate Detection
+### Databases & Data Management
 
-Business Intelligence
+* SQL
+* PostgreSQL
+* Data Cleaning
+* Data Validation
+* Data Quality & Reconciliation
+* Duplicate Detection
 
-  Power BI
-  Tableau
-  Excel
-  Dashboard Development
-  KPI & Performance Reporting
+### Business Intelligence & Reporting
 
-Featured Analytics Projects
+* Power BI
+* Tableau
+* Microsoft Excel
+* Dashboard Development
+* KPI & Performance Reporting
 
-1.Business Data Quality & Audit - 
-A practical data-quality project demonstrating SQL, PostgreSQL and Python techniques for identifying missing data, duplicates, inconsistencies and data-validation issues.
+---
 
-2.Business Performance Analytics - 
-An end-to-end analytics project combining SQL, Python and Power BI to transform business data into management dashboards, performance indicators and actionable insights.
+## 📊 Featured Analytics Projects
 
-3.Data Process Automation - 
-A Python and SQL project demonstrating automated data cleaning, validation, transformation and reporting workflows.
+### 🔍 Business Data Quality & Audit
 
-4. Aviation Business Analytics - 
-A synthetic aviation analytics project focused on operational and commercial performance, demonstrating database analysis, SQL, Python, Power BI and management reporting.
+A practical data-quality project demonstrating SQL, PostgreSQL, and Python techniques for identifying missing data, duplicates, inconsistencies, and validation issues.
 
-5. Applied Health & Medical Analytics - 
-I also work with complex health and medical datasets, including longitudinal data, clinical measurements, statistical modelling, data quality assessment, and predictive analytics.
+### 📈 Business Performance Analytics
 
-🎓 Education
+An end-to-end analytics project combining SQL, Python, and Power BI to transform business data into management dashboards, performance indicators, trend analysis, and actionable recommendations.
 
-MSc Data Analytics
+### ⚙️ Data Process Automation
+
+A Python and SQL project demonstrating automated data cleaning, validation, transformation, and reporting workflows.
+
+### ✈️ Aviation Business Analytics
+
+A synthetic aviation analytics project focused on operational and commercial performance, demonstrating PostgreSQL, SQL, Python, Power BI, KPI development, and management reporting.
+
+---
+
+## 🎓 Education
+
+**MSc Data Analytics**
 KCA University
 
-BSc Computer Science
+**BSc Computer Science**
 Moi University
 
- 📫 Connect With Me
+---
 
-[LinkedIn](https://www.linkedin.com/in/stacyjemelingetich)
+## 🏥 Applied Analytics
 
+I also work with complex applied datasets, including longitudinal data, statistical analysis, data quality assessment, and predictive analytics.
 
+---
+
+## 📫 Connect With Me
+
+**LinkedIn:** linkedin.com/in/stacyjemelingetich
+
+---
+
+*This portfolio documents practical data analytics, business intelligence, data-quality, statistical, and applied analytics projects.*
